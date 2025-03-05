@@ -1,6 +1,6 @@
 <h2> Hi, I'm Kanika! </h2>
 
-<p><em>Student at <a href="http://www.unb.br">McGill University</a>
+<p><em>Student at <a href="https://www.mcgill.ca/">McGill University</a>
 [![Linkedin: kanikasinghpundir](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kanika-singh-pundir-4926bb279/)](https://www.linkedin.com/in/kanika-singh-pundir/)
 
 
